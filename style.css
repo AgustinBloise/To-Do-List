@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(44, 44, 94);
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: white;
+    text-align: center;
+}
+
+.input{
+    border-radius: 10px;
+    border: none;
+    width: 450px;
+    height: 50px;
+    font-size: 18px;
+    background-color: white;
+    padding: 0 20px;
+    margin: 5px;
+}
+
+.boton-agregar{
+    background-color: rgb(255, 6, 46);
+    color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 5px;
+    border: none;
+    font-size: 20px
+}
+
+.boton-agregar:hover{
+    opacity: 0.9;
+}
+
+.item-input{
+    border: 1px;
+    border-style: solid;
+    width: 350px;
+    height: 50px;
+    border-color: white;
+    padding: 0 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: white;
+    background: none;
+}
+
+.item{
+    margin: 10px 0;
+}
+
+.boton-remove{
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 6, 46);
+    font-size: 20px;
+    color: white;
+}
+
+.boton-editar{
+    margin: 0 5px;
+    border: none;
+    background: none;
+    color: #62d0ff;
+    font-size: 1.4rem;
+    font-family: Montserrat, sans-serif;
+}
